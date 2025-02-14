@@ -1,0 +1,10 @@
+name: unmanageable
+
+services:
+  backend:
+    build: ./backend
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:80"
