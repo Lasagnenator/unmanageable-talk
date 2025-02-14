@@ -1,3 +1,8 @@
+# GITHUB 
+This was a group project done during university. My contributions are the entire backend and the cryptography for the frontend.
+
+The original readme is below.
+
 # Unmanageable - End-to-End Encrypted Messaging
 
 ## Docker Compose Setup (Recommended)
